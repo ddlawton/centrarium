@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hello! My name is Douglas Lawton and I am currently a [Environmental Life Sciences] Ph.D student at [Arizona State University] in the [Cease Lab]. 
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I grew up in rural North Carolina, recieved a B.S. in Biology from [The University of North Carolina at Greensboro] in 2015. In 2016, I moved out west to join the Cease Lab and promote global food security.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a landscape ecologist who dabbles in human-plant-insect interactions. Currently, I am studying the ecological underpinnings of the Australian plague locust in Australia.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+[Environmental Life Sciences]: https://sols.asu.edu/degree-programs/environmental-life-sciences-phd
+[Cease Lab]: https://cease.lab.asu.edu/
+[The University of North Carolina at Greensboro]: https://uncg.edu
+[Arizona State University]: https://asu.edu
